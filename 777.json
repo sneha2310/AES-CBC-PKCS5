@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "dvs": {
+      "fqdn": "https://das-kong-dev.digivalet.com:18444",
+      "publicIp": "127.0.0.1",
+      "localIp": "127.0.0.1",
+      "inRoomDeviceId": "18"
+    },
+    "kong": {
+      "fqdn": "https://das-kong-dev.digivalet.com:18444/",
+      "localIp": "127.0.0.1",
+      "clientId": "jhvsdjbisdbvisdbvyuisd",
+      "clientSecret": "siuvbsdkjvbsudynvsaivcbsuahdbQI"
+    }
+  }
+}
