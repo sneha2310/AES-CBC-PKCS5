@@ -13,7 +13,7 @@ If the block length is B then add N padding bytes of value N to make the input l
 
 Examples of PKCS5 padding for block length B = 8:
 
-3 bytes: FDFDFD           --> FDFDFD0505050505
-7 bytes: FDFDFDFDFDFDFD   --> FDFDFDFDFDFDFD01
+3 bytes: FDFDFD           --> FDFDFD0505050505<br />
+7 bytes: FDFDFDFDFDFDFD   --> FDFDFDFDFDFDFD01<br />
 8 bytes: FDFDFDFDFDFDFDFD --> FDFDFDFDFDFDFDFD0808080808080808
 
