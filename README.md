@@ -1,4 +1,4 @@
-# AES-CBC-PKCS5
+# AES/CBC/PKCS5
 
 # AES-256
 256-bit AES encryption refers to the process of concealing plaintext data using the AES algorithm and an AES key length of 256 bits. In addition, 256 bits is the largest AES key length size, as well as its most mathematically complex. It is also the most difficult to crack.
