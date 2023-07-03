@@ -2,13 +2,13 @@
   "servers": {
     "dvs": {
       "fqdn": "https://exampleone.com:18444",
-      "publicIp": "127.0.0.1",
-      "localIp": "127.0.0.1",
+      "publicIp": "10.0.0.1",
+      "localIp": "192.168.0.1",
       "inRoomDeviceId": "18"
     },
     "kong": {
       "fqdn": "https://exampletwo.com:18444/",
-      "localIp": "127.0.0.1",
+      "localIp": "1192.168.0.2",
       "clientId": "jhvsdjbisdbvisdbvyuisd",
       "clientSecret": "siuvbsdkjvbsudynvsaivcbsuahdbQI"
     }
